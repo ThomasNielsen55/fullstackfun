@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fullstackFunback")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7deca5b11585d10655e56fb6b6c4703fdd527b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5b26a17456159ecee8d29e14f91a246e7f4ec75")]
 [assembly: System.Reflection.AssemblyProductAttribute("fullstackFunback")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fullstackFunback")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
